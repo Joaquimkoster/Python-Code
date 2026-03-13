@@ -19,16 +19,16 @@ Para rodar qualquer script deste repositório, você precisa ter o Python instal
 
 python nome_do_arquivo.py
 
-📈 Roadmap de Estudos
+📈 Roteiro de Estudos
 
     [x] Sintaxe Básica e Variáveis
 
     [x] Estruturas de Decisão e Repetição
 
-    [ ] Manipulação de Arquivos (I/O)
+    [x] Manipulação de Arquivos (I/O)
 
     [ ] Tratamento de Erros (Try/Except)
 
     [ ] Introdução à Programação Orientada a Objetos (POO)
 
-    "Readability counts." — The Zen of Python
+    "A legibilidade é importante." — O Zen do Python
